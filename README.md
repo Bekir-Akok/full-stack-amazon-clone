@@ -1,3 +1,5 @@
+# Canlı ---> https://full-stack-amazon-clone.vercel.app/
+### Kaynak: https://www.youtube.com/watch?v=RDV3Z1KCBvo&list=WL&index=28&t=445s
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
